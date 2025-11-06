@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Migrations\\20251105160230_firstly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StatsBomb\\Migrations\\20251105160230_firstly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Migrations\\20251105155849_firstly3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StatsBomb\\Migrations\\20251105155849_firstly3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbomb\\statsbombcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|solutionrelative:statsbomb\\statsbombcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbomb\\entities\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|solutionrelative:statsbomb\\entities\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbomb\\entities\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|solutionrelative:statsbomb\\entities\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D5ED93-BDE0-44CD-9E24-7D3550094BB4}|StatsBombETL\\StatsBombETL.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbombetl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D5ED93-BDE0-44CD-9E24-7D3550094BB4}|StatsBombETL\\StatsBombETL.csproj|solutionrelative:statsbombetl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbomb\\entities\\lineup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|solutionrelative:statsbomb\\entities\\lineup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbomb\\wwwroot\\lists\\matchdetail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|solutionrelative:statsbomb\\wwwroot\\lists\\matchdetail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbomb\\wwwroot\\lists\\css\\matchdetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|solutionrelative:statsbomb\\wwwroot\\lists\\css\\matchdetail.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbomb\\entities\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|solutionrelative:statsbomb\\entities\\matches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|c:\\users\\gsa-1\\source\\repos\\statsbomb\\statsbomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6486D251-51E1-41AC-9E8F-5B32E4AF6ED1}|StatsBomb\\StatsBomb.csproj|solutionrelative:statsbomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251105160230_firstly.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Migrations\\20251105160230_firstly.cs",
+              "RelativeDocumentMoniker": "StatsBomb\\Migrations\\20251105160230_firstly.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Migrations\\20251105160230_firstly.cs",
+              "RelativeToolTip": "StatsBomb\\Migrations\\20251105160230_firstly.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T16:02:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20251105155849_firstly3.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Migrations\\20251105155849_firstly3.cs",
+              "RelativeDocumentMoniker": "StatsBomb\\Migrations\\20251105155849_firstly3.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Migrations\\20251105155849_firstly3.cs",
+              "RelativeToolTip": "StatsBomb\\Migrations\\20251105155849_firstly3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:58:49.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBombETL\\Program.cs",
+              "RelativeDocumentMoniker": "StatsBombETL\\Program.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBombETL\\Program.cs",
+              "RelativeToolTip": "StatsBombETL\\Program.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAApwL4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:33:03.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lineup.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Entities\\Lineup.cs",
+              "RelativeDocumentMoniker": "StatsBomb\\Entities\\Lineup.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Entities\\Lineup.cs",
+              "RelativeToolTip": "StatsBomb\\Entities\\Lineup.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwC0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:31:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "matchDetail.html",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\wwwroot\\lists\\matchDetail.html",
+              "RelativeDocumentMoniker": "StatsBomb\\wwwroot\\lists\\matchDetail.html",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\wwwroot\\lists\\matchDetail.html",
+              "RelativeToolTip": "StatsBomb\\wwwroot\\lists\\matchDetail.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-01T11:00:16.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "matchDetail.css",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\wwwroot\\lists\\css\\matchDetail.css",
+              "RelativeDocumentMoniker": "StatsBomb\\wwwroot\\lists\\css\\matchDetail.css",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\wwwroot\\lists\\css\\matchDetail.css",
+              "RelativeToolTip": "StatsBomb\\wwwroot\\lists\\css\\matchDetail.css",
+              "ViewState": "AgIAALsBAAAAAAAAAAAAAMABAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-01T11:00:28.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Entities\\Events.cs",
+              "RelativeDocumentMoniker": "StatsBomb\\Entities\\Events.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Entities\\Events.cs",
+              "RelativeToolTip": "StatsBomb\\Entities\\Events.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAA4wCEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:31:53.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Entities\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "StatsBomb\\Entities\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Entities\\PlayerStats.cs",
+              "RelativeToolTip": "StatsBomb\\Entities\\PlayerStats.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAxwEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:31:35.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Matches.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Entities\\Matches.cs",
+              "RelativeDocumentMoniker": "StatsBomb\\Entities\\Matches.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Entities\\Matches.cs",
+              "RelativeToolTip": "StatsBomb\\Entities\\Matches.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:30:47.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatsBombContext.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\StatsBombContext.cs",
+              "RelativeDocumentMoniker": "StatsBomb\\StatsBombContext.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\StatsBombContext.cs",
+              "RelativeToolTip": "StatsBomb\\StatsBombContext.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T10:29:59.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Program.cs",
+              "RelativeDocumentMoniker": "StatsBomb\\Program.cs",
+              "ToolTip": "C:\\Users\\gsa-1\\source\\repos\\StatsBomb\\StatsBomb\\Program.cs",
+              "RelativeToolTip": "StatsBomb\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:37:02.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
